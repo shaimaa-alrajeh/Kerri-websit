@@ -12,7 +12,11 @@ This project is a fully responsive photography portfolio website called **Kerri*
 - **Custom Styling**: Designed with a unique blend of colors, fonts, and animations.
 
 ## File Structure
-Kerri/ │ ├── index.html # Main HTML file ├── css/ │ └── master.css # Main stylesheet ├── img/ # Image assets for the website └── README.md # Project documentation
+project-root/
+├── index.html     # Main HTML file
+├── css/
+│   └── master.css # CSS for styling the website
+├── img/           # Folder containing image assets
 
 ## Technologies Used
 - **HTML5**: For the structure of the website.
@@ -26,4 +30,18 @@ Kerri/ │ ├── index.html # Main HTML file ├── css/ │ └── ma
    ```bash
    git clone https://github.com/your-username/kerri-website.git
 2. Open the index.html file in your web browser to view the website.
+
+## Future Enhancements
+- Add a backend system for contact form submissions.
+- Integrate a CMS to easily manage portfolio content.
+- Add more animations and transitions for smoother user experience.
+- Implement dark/light mode toggle.
+- Improve accessibility to meet WCAG standards.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+Created by [Shaimaa Alrajeh](https://github.com/shaimaa-alrajeh)  
+Connect with me on [LinkedIn](www.linkedin.com/in/shaimaa-alrajeh-762a05213)
 
