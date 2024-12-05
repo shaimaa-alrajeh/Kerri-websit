@@ -11,12 +11,6 @@ This project is a fully responsive photography portfolio website called **Kerri*
 - **Responsive Design**: Fully responsive across desktop and mobile devices.
 - **Custom Styling**: Designed with a unique blend of colors, fonts, and animations.
 
-## File Structure
-project-root/
-├── index.html     # Main HTML file
-├── css/
-│   └── master.css # CSS for styling the website
-├── img/           # Folder containing image assets
 
 ## Technologies Used
 - **HTML5**: For the structure of the website.
